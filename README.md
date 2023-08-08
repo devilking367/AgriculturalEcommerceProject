@@ -20,4 +20,3 @@ Order:
 Tech: Spring MVC, Spring Data JPA, Spring Security, Spring Mail,
 Hibernate, Thymeleaf, MySQL, Jquery, Javascript, Bootstrap
 
-Git: GitHub, Bitbucket
