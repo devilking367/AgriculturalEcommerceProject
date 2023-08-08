@@ -14,6 +14,7 @@ Item
 
 Order:
  - User: Create Order, Check Out with Payment Card or COD
+   
  - Admin: Show List Order, Order Detail, Change Order Status
 
 Tech: Spring MVC, Spring Data JPA, Spring Security, Spring Mail,
